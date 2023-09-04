@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "The Witchery",
+        "live": "https://assignment-12-summer-school.web.app/",
+        "client": "https://github.com/Ananthadeb1/summer-camp-client-side",
+        "server": "https://github.com/Ananthadeb1/summer-camp-server_side",
+        "mainimg": "https://i.ibb.co/PxFrgj2/1.png",
+        "feater": [
+            "Users can do course in their free time.",
+            "Users can select course and post a course to teach.",
+            "There is an admin role and admin can control users."
+        ],
+        "img1": "https://i.ibb.co/djyz7J3/2.png",
+        "img2": "https://i.ibb.co/dDPZH8r/3.png",
+        "img3": "https://i.ibb.co/0CyRfmf/4.png",
+        "img4": "https://i.ibb.co/9y8KjzB/5.png",
+        "overview": "This is a full-stack project. It is an e-learning-based website. Here students can choose a class and see the teachers list and teachers can upload courses they want to teach."
+    },
+    {
+        "id": 2,
+        "name": "Toy Land",
+        "live": "https://toy-house-f433d.web.app/",
+        "client": "https://github.com/Ananthadeb1/toy-marketplace-client-side",
+        "server": "https://github.com/Ananthadeb1/toy-marketplace-server-side",
+        "mainimg": "https://i.ibb.co/TkmmNkF/1.png",
+        "feater": [
+            "User can see toy as tab then see the details in another page also can see some extraordinary banners.",
+            "Users can post toy for selling.",
+            "Users can see te all toy list included their posted toy."
+        ],
+        "img1": "https://i.ibb.co/nRKHBfR/2.png",
+        "img2": "https://i.ibb.co/yFKPgTJ/3.png",
+        "img3": "https://i.ibb.co/syVsW83/4.png",
+        "img4": "https://i.ibb.co/vk1z3QG/5.png",
+        "overview": "This is a full-stack project. It is an e-commerce website. Here users can add toys for sale and see the toy list and details."
+    },
+    {
+        "id": 3,
+        "name": "Chefs World",
+        "live": "https://chafe-assignment-10.web.app/",
+        "client": "https://github.com/Ananthadeb1/chef-recipe-hunter-client-side",
+        "server": "https://github.com/Ananthadeb1/chef-recipe-hunter-server-side",
+        "mainimg": "https://i.ibb.co/0GBNv31/1.png",
+        "feater": [
+            "This website has responsive design and attractive outlook.",
+            "users can can logIn and sign up with email and google.",
+            "Users can see the chefs and their recipes in the another page."
+        ],
+        "img1": "https://i.ibb.co/8zSGNVL/2.png",
+        "img2": "https://i.ibb.co/VBMfXdc/3.png",
+        "img3": "https://i.ibb.co/BGXQWQ1/4.png",
+        "img4": "https://i.ibb.co/zbVGF0Y/5.png",
+        "overview": "This is a full-stack project. It is about chefs and recipes. Here users can see and know about some extraordinary chefs and recipes."
+    }
+]
